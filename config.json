@@ -1,0 +1,48 @@
+{
+  "Browsers": [
+    {
+      "Id": "firefox",
+      "Name": "Firefox",
+      "Subtitle": "Default Browser",
+      "ExecutablePath": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+      "Arguments": "",
+      "ShortcutKey": "1",
+      "AltKey": "F",
+      "BadgeText": "FF",
+      "BadgeColor": "#FF5500"
+    },
+    {
+      "Id": "chrome_work",
+      "Name": "Chrome · Work",
+      "Subtitle": "work@example.com",
+      "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "Arguments": "--profile-directory=\"Profile 1\"",
+      "ShortcutKey": "2",
+      "AltKey": "W",
+      "BadgeText": "H",
+      "BadgeColor": "#6D4C41"
+    },
+    {
+      "Id": "chrome_personal",
+      "Name": "Chrome · Personal",
+      "Subtitle": "personal@example.com",
+      "ExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "Arguments": "--profile-directory=\"Profile 2\"",
+      "ShortcutKey": "3",
+      "AltKey": "P",
+      "BadgeText": "H",
+      "BadgeColor": "#5C6BC0"
+    },
+    {
+      "Id": "edge",
+      "Name": "Microsoft Edge",
+      "Subtitle": "System Browser",
+      "ExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "Arguments": "",
+      "ShortcutKey": "4",
+      "AltKey": "E",
+      "BadgeText": "e",
+      "BadgeColor": "#0078D7"
+    }
+  ]
+}
